@@ -16,7 +16,6 @@
   },
   "devDependencies": {
     "got": "^11.3.0",
-    "nodemon": "^2.0.7",
     "tape": "^4.7.0"
   },
   "repository": {
